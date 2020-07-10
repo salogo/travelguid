@@ -3,4 +3,6 @@ For those who like to travel around the world. Users are able to use this app to
 
 Built with HTML , CSS , JavaScript, Media query , third party API
 #
-![Uploading Screen Shot 2020-07-10 at 11.40.46 AM.png…]()
+
+![image](https://user-images.githubusercontent.com/54459398/87178487-d3ac5b00-c2a2-11ea-9b50-b53b5bc9a04c.png)
+#
